@@ -53,7 +53,7 @@ Instructions
 3. You will see your % correct as your grade, and your wpm.
 4. Hit clear to re-start, or select a different verse.
 
-If you have any questions you can email me at: mazak.5@osu.edu
+If you have any questions you can email me.
 
 Hope you like it,
 Paul

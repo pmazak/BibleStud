@@ -8,12 +8,6 @@
    */
 package com.mazak.biblestud;
 
-import com.*;
-import java.*;
-import sun.*;
-import netscape.*;
-
-
 /**
  * A handy stopwatch for benchmarking.
  * Like a real stop watch used on ancient running tracks you can start the watch, stop it,
